@@ -1,0 +1,7 @@
+<h2>IMDB ETL Pipeline</h2>
+<form method="POST" enctype="multipart/form-data">
+    {% csrf_token %}
+    <label>Upload 'messy_IMDB_dataset.csv':</label><br><br>
+    <input type="file" name="csvfile">
+    <button type="submit">Start ETL Process</button>
+</form>
