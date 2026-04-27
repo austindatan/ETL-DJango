@@ -2,7 +2,7 @@
   <img src="https://res.cloudinary.com/dldwg8flq/image/upload/v1777315899/Apollo_HEADER_1_h4pd4m.png" alt="Repository Header" />
 </p>
 
-<h3 align="center">IV-Securing-APIs-with-Encryption-Rate-Limiting-and-Secure-Data-Handling</h1>
+<h3 align="center">ETL-DJango</h1>
 
 <p align="center">
   <em>Projects, activities, and requirements for academic purposes.</em>
